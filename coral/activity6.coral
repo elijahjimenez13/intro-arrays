@@ -1,0 +1,6 @@
+integer array(5) userVals
+integer i
+
+for i = 0; i < userVals.size; i = i + 1
+   // Do something with element
+   userVals[i] = -1

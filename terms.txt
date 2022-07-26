@@ -1,0 +1,17 @@
+1) Arrays:
+An array is a special variable having one name, but storing a list of data items,
+with each item being directly accessible. Some languages use a construct similar
+to an array called a vector.
+
+2) Element:
+Each item in an array is known as an element.
+
+3) Index:
+In an array access, then number in brackets is called the index of that element. 
+In Coral, the first array element is at index 0.
+
+4) Logical Error:
+
+Logic errors occur when there is a fault in the logic or structure of the problem. 
+Logic errors do not usually cause a program to crash. However, logic errors can 
+cause a program to produce unexpected results.

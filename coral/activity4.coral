@@ -1,0 +1,16 @@
+integer x
+integer y
+integer tmpVal
+
+x = Get next input
+y = Get next input
+
+// Swap x and y
+tmpVal = x
+x = y
+y = tmpVal
+
+Put x to output
+Put " " to output
+Put y to output
+Put "\n" to output

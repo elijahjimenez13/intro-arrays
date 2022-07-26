@@ -1,0 +1,6 @@
+integer array(4) userVals
+integer i
+integer sumVal
+
+for i = 0; i < 5; i = i + 1
+   userVals[i] = Get next input

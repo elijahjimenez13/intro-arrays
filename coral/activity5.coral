@@ -1,0 +1,21 @@
+integer array(5) x
+integer swapVal
+integer i
+
+x[0] = 11
+x[1] = 77
+x[2] = 22
+x[3] = 55
+x[4] = 33
+
+swapVal = x[0]
+x[0] = x[4]
+x[4] = swapVal
+
+swapVal = x[1]
+x[1] = x[3]
+x[3] = swapVal
+
+for i = 0; i < x.size; i = i + 1
+    Put x[i] to output
+    Put " " to output

@@ -1,0 +1,9 @@
+integer array(5) userVals
+integer i
+
+for i = 0; i < userVals.size; i = i + 1
+   userVals[i] = Get next input
+   
+for i = 0; i < userVals.size; i = i + 1
+   Put userVals[i] to output
+   Put " " to output
